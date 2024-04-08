@@ -34,6 +34,9 @@ I'm a PhD candidate at the school of Artificial Intelligence, Xidian University.
 
 Yue Wu, **Yue Zhang**, Wenping Ma, Maoguo Gong, Xiaolong Fan, Mingyang Zhang, AK Qin, Qqiguang Miao
 
+[Paper](https://ieeexplore.ieee.org/abstract/document/10168979) \| [Code](https://github.com/superYuezhang/RORNet) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/INENet.png' alt="sym" width="100%"></div>
@@ -45,6 +48,9 @@ Yue Wu, **Yue Zhang**, Wenping Ma, Maoguo Gong, Xiaolong Fan, Mingyang Zhang, AK
 
 Yue Wu, **Yue Zhang**, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma
 
+[Paper](https://ieeexplore.ieee.org/abstract/document/9915616/) \| [Code](https://github.com/superYuezhang/INENet) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/sacfnet' alt="sym" width="100%"></div>
@@ -56,6 +62,9 @@ Yue Wu, **Yue Zhang**, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma
 
 Yue Wu, Xidao Hu, **Yue Zhang**, Maoguo Gong, Wenping Ma, Qiguang Miao
 
+[Paper](https://ieeexplore.ieee.org/abstract/document/10018266) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/sensors' alt="sym" width="100%"></div>
@@ -67,6 +76,9 @@ Yue Wu, Xidao Hu, **Yue Zhang**, Maoguo Gong, Wenping Ma, Qiguang Miao
 
 Lu Leng, Ziyuan Yang, Cheonshik Kim, **Yue Zhang**
 
+[Paper](https://www.mdpi.com/1424-8220/20/9/2644) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2022.12* The first prize, National Youth Artificial Intelligence Innovation and Entrepreneurship Conference. 
