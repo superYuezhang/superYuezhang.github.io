@@ -58,7 +58,6 @@ Yue Wu, **Yue Zhang**, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma
 </div>
 </div>
 
-**2022**
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/sacfnet.png' alt="sym" width="100%"></div>
