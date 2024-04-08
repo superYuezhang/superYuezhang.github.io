@@ -25,6 +25,9 @@ I'm a PhD candidate at the school of Artificial Intelligence, Xidian University.
 
 # 📝 Publications 
 
+**2023**
+<!-- ######################################################### -->
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/RORNet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,6 +40,9 @@ Yue Wu, **Yue Zhang**, Wenping Ma, Maoguo Gong, Xiaolong Fan, Mingyang Zhang, AK
 [Paper](https://ieeexplore.ieee.org/abstract/document/10168979) \| [Code](https://github.com/superYuezhang/RORNet) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
+
+**2022**
+
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/INENet.png' alt="sym" width="100%"></div>
@@ -51,9 +57,11 @@ Yue Wu, **Yue Zhang**, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma
 [Paper](https://ieeexplore.ieee.org/abstract/document/9915616/) \| [Code](https://github.com/superYuezhang/INENet) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
+
+**2022**
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/sacfnet' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/sacfnet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **SACF-Net: Skip-attention based Correspondence Filtering Network for Point Cloud Registration**
@@ -65,9 +73,11 @@ Yue Wu, Xidao Hu, **Yue Zhang**, Maoguo Gong, Wenping Ma, Qiguang Miao
 [Paper](https://ieeexplore.ieee.org/abstract/document/10018266) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
+
+**2020**
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/sensors' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/sensors.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **A light-weight practical framework for feces detection and trait recognition**
