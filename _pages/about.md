@@ -95,4 +95,4 @@ Lu Leng, Ziyuan Yang, Cheonshik Kim, **Yue Zhang**
 
 # 📖 Educations
 - *2020.06 - now*, PhD candidate, School of Artificial Intelligence, Xidian University, Xi'an, Shaanxi.
-- *2016.09 - 2020.06*, Bachelor, School of Software, Nanchang Hangkong University, Nanchang, China.
+- *2016.09 - 2020.06*, Bachelor, School of Software, Nanchang Hangkong University, Nanchang, Jiangxi.
