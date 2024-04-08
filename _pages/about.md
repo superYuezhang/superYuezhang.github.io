@@ -20,8 +20,8 @@ redirect_from:
 I'm a PhD candidate at the school of Artificial Intelligence, Xidian University. My research interests include 3D point cloud representation, 3D registration.
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 One paper is accepted to IEEE TCSVT.
-- *2022.09*: &nbsp;🎉🎉 One paper is accepted to IEEE TNNLS.
+- *2023.06*: &nbsp;🎉🎉 One paper is accepted to IEEE TNNLS.
+- *2022.09*: &nbsp;🎉🎉 One paper is accepted to IEEE TCSVT.
 
 # 📝 Publications 
 
