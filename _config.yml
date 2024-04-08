@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yue Zhang (张越)"
-description              : "description"
+description              : "Ph.D candidate in School of Artificial Intelligence, Xidian University. Focusing on Point cloud processing."
 repository               : "superYuezhang/superYuezhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yue Zhang"
+  name             : "Yue Zhang (张越)"
   avatar           : "images/yzhang.png"
   bio              : "Xidian University"
   location         : "Xi'an, Shaanxi"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/superYuezhang"
   google_plus      :
   keybase          :
   instagram        :
