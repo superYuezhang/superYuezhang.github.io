@@ -35,7 +35,7 @@ I'm a PhD candidate at the school of Artificial Intelligence, Xidian University.
 
 *IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), 2023*
 
-Yue Wu, **Yue Zhang**, Wenping Ma, Maoguo Gong, Xiaolong Fan, Mingyang Zhang, AK Qin, Qqiguang Miao
+Yue Wu, **Yue Zhang**, Wenping Ma, Maoguo Gong, Xiaolong Fan, Mingyang Zhang, AK Qin, Qiguang Miao
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/10168979) \| [Code](https://github.com/superYuezhang/RORNet) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
