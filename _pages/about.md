@@ -94,5 +94,5 @@ Lu Leng, Ziyuan Yang, Cheonshik Kim, **Yue Zhang**
 - *2019.06* The second prize, Jiangxi College students Computer Works Competition.
 
 # 📖 Educations
-- *2020.06 - now*, PhD candidate, School of Artificial Intelligence, Xidian University, Xi'an, Shaanxi.
+- *2020.06 - present*, PhD candidate, School of Artificial Intelligence, Xidian University, Xi'an, Shaanxi.
 - *2016.09 - 2020.06*, Bachelor, School of Software, Nanchang Hangkong University, Nanchang, Jiangxi.
