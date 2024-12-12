@@ -26,7 +26,7 @@ I'm a PhD candidate at the school of Artificial Intelligence, Xidian University.
 
 # 📝 Publications 
 
-**2023**
+**2024**
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/IAPReg.png' alt="sym" width="100%"></div>
