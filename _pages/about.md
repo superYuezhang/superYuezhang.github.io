@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d16cb625-6e1b-48f4-8f96-cd1178c1206f)---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -38,7 +38,7 @@ I'm a PhD candidate at the school of Artificial Intelligence, Xidian University.
 
 **Yue Zhang**, Yue Wu, Wenping Ma, Maoguo Gong, Hao Li, Biao Hou
 
-[Paper](https://) \| [Code](https://github.com/superYuezhang/IAPReg) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper]() \| [Code](https://github.com/superYuezhang/IAPReg) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
