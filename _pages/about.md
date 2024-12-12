@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/d16cb625-6e1b-48f4-8f96-cd1178c1206f)---
 permalink: /
 title: ""
 excerpt: ""
@@ -20,10 +20,27 @@ redirect_from:
 I'm a PhD candidate at the school of Artificial Intelligence, Xidian University. My research interests include 3D point cloud representation, 3D registration.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2025.
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted to IEEE TNNLS.
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted to IEEE TCSVT.
 
 # 📝 Publications 
+
+**2023**
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/IAPReg.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Partial Point Cloud Registration with Multi-view 2D Image Learning**
+
+*Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025*
+
+**Yue Zhang**, Yue Wu, Wenping Ma, Maoguo Gong, Hao Li, Biao Hou
+
+[Paper](https://) \| [Code]([https://github.com/superYuezhang/RORNet](https://github.com/superYuezhang/IAPReg)) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 **2023**
 <!-- ######################################################### -->
