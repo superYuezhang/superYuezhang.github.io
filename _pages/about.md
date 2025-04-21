@@ -38,7 +38,7 @@ I'm a PhD candidate at the school of Artificial Intelligence, Xidian University.
 
 **Yue Zhang**, Yue Wu, Wenping Ma, Maoguo Gong, Hao Li, Biao Hou
 
-[Paper]() \| [Code](https://github.com/superYuezhang/IAPReg) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33121) \| [Code](https://github.com/superYuezhang/IAPReg) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
